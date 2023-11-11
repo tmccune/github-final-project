@@ -6,8 +6,3 @@ Input:
 Output
    simple interest = p*t*r
 
----
-author:
-- tmccune
-date: 2023-11-10
----
