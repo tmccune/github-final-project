@@ -8,7 +8,6 @@ Output
 
 ---
 author:
-- John Doe
-- Jane Smith
+- tmccune
 date: 2023-11-10
 ---
